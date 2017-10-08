@@ -1,2 +1,3 @@
 name: Haoran Zhao, software engineer
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
