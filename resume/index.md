@@ -67,6 +67,5 @@ G.P.A.: 3.40
 ## Other Info
 - Human Languages:
  - English
- - Mandarin((native speaker))
-
+ - Mandarin(native speaker)
 - Foosball lover
