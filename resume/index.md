@@ -3,7 +3,7 @@ layout: default
 title: Resume
 ---
 # Haoran Zhao
-[Download Resume](https://raw.githubusercontent.com/haoranzz/haoranzz.github.io/master/_includes/pdf_resume.pdf)
+[Download Resume](https://raw.githubusercontent.com/haoranzz/haoranzz.github.io/master/_includes/pdf_resume.pdf)  
 #4304 1 Vista Montana, San Jose, CA, 95134  
 412-961-3710,  hr100.zhao@gmail.com  
 **Objective**: Software Engineer  
